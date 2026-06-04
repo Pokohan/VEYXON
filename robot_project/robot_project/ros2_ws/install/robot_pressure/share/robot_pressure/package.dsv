@@ -1,0 +1,15 @@
+source;share/robot_pressure/hook/path.ps1
+source;share/robot_pressure/hook/path.dsv
+source;share/robot_pressure/hook/path.sh
+source;share/robot_pressure/hook/pythonpath.ps1
+source;share/robot_pressure/hook/pythonpath.dsv
+source;share/robot_pressure/hook/pythonpath.sh
+source;share/robot_pressure/hook/pythonscriptspath.ps1
+source;share/robot_pressure/hook/pythonscriptspath.dsv
+source;share/robot_pressure/hook/pythonscriptspath.sh
+source;share/robot_pressure/hook/ament_prefix_path.ps1
+source;share/robot_pressure/hook/ament_prefix_path.dsv
+source;share/robot_pressure/hook/ament_prefix_path.sh
+source;../../build/robot_pressure/share/robot_pressure/hook/pythonpath_develop.ps1
+source;../../build/robot_pressure/share/robot_pressure/hook/pythonpath_develop.dsv
+source;../../build/robot_pressure/share/robot_pressure/hook/pythonpath_develop.sh

@@ -1,0 +1,28 @@
+running develop
+running egg_info
+creating robot_pressure.egg-info
+writing robot_pressure.egg-info/PKG-INFO
+writing dependency_links to robot_pressure.egg-info/dependency_links.txt
+writing entry points to robot_pressure.egg-info/entry_points.txt
+writing requirements to robot_pressure.egg-info/requires.txt
+writing top-level names to robot_pressure.egg-info/top_level.txt
+writing manifest file 'robot_pressure.egg-info/SOURCES.txt'
+reading manifest file 'robot_pressure.egg-info/SOURCES.txt'
+writing manifest file 'robot_pressure.egg-info/SOURCES.txt'
+running build_ext
+Creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/lib/python3.8/site-packages/site.py
+Creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/lib/python3.8/site-packages/robot-pressure.egg-link (link to .)
+Installing mock_robot_node script to /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/bin
+Installing pressure_node script to /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/bin
+
+Installed /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/build/robot_pressure
+running symlink_data
+creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/ament_index
+creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/ament_index/resource_index
+creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/ament_index/resource_index/packages
+symbolically linking /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/build/robot_pressure/resource/robot_pressure -> /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/ament_index/resource_index/packages
+symbolically linking /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/build/robot_pressure/package.xml -> /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/robot_pressure
+creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/robot_pressure/launch
+symbolically linking /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/build/robot_pressure/launch/robot_pressure.launch.py -> /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/robot_pressure/launch
+creating /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/robot_pressure/config
+symbolically linking /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/build/robot_pressure/config/params.yaml -> /media/hpz/STOCKAGE2/Projet/robot_project/robot_project/robot_project/ros2_ws/install/robot_pressure/share/robot_pressure/config

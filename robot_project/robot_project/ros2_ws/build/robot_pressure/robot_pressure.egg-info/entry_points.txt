@@ -1,0 +1,4 @@
+[console_scripts]
+mock_robot_node = robot_pressure.mock_robot_node:main
+pressure_node = robot_pressure.pressure_node:main
+

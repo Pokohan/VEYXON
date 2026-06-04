@@ -1,0 +1,6 @@
+pressure_node:
+  ros__parameters:
+    camera_index: 0
+    publish_rate: 30.0
+    stability_frames: 8
+    confidence_min: 0.75
