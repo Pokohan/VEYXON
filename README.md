@@ -1,4 +1,5 @@
-🤖 Autonomous Robot — DocumentationAn AI robotics project capable of interacting with its physical environment and performing adaptive grasping tasks.Project Architecturerobot_project/
+🤖 Autonomous Robot
+DocumentationAn AI robotics project capable of interacting with its physical environment and performing adaptive grasping tasks.Project Architecturerobot_project/
 ├── config.py                  # ⚙️  Centralized configuration (paths, parameters)
 ├── main.py                    # 📷  Dataset capture (webcam + MediaPipe)
 ├── merge_csv.py               # 🔀  CSV merging by object
