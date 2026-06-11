@@ -40,9 +40,8 @@ Key Parameters (config.py)ParameterDefault ValueDescriptionCAMERA_INDEX0Webcam i
 
 License
 
-Copyright (c) 2026 Vexyon / Youssef Miled.
-
-This software is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+Copyright (c) 2026 Vexyon / Youssef Miled. All rights reserved.
+For commercial licensing, enterprise integration, or inquiries, please contact: youssefmiled20@gmail.com
 
 You are free to:
 
