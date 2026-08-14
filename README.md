@@ -1,4 +1,6 @@
-🤖 Autonomous Robot
+AI Grip Pressure Estimation for Robotic Grasping
+
+AI-powered robotic grasping: estimate grip pressure from a webcam using MediaPipe + machine learning — no force sensor required.
 
 Documentation An AI robotics project capable of interacting with its physical environment and performing adaptive grasping tasks.Project Architecturerobot_project/
 ├── config.py                  # ⚙️  Centralized configuration (paths, parameters)
